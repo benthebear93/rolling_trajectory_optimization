@@ -10,9 +10,9 @@ Minimal, **uv**-managed Python project for **in-hand rolling trajectory optimiza
     <a href='https://arxiv.org/pdf/2503.08222'>
       <img src='https://img.shields.io/badge/Paper-PDF-FF9547?style=plastic&logo=adobeacrobatreader&logoColor=FF9547' alt='Paper PDF'>
     </a>
-    <a href='https://nus-lins-lab.github.io/drograspweb/'>
+    <!-- <a href='https://github.com/benthebear93/rolling_trajectory_optimization'>
       <img src='https://img.shields.io/badge/Project-Page-66C0FF?style=plastic&logo=Google%20chrome&logoColor=66C0FF' alt='Project Page'>
-    </a>
+    </a> -->
 </p>
 <div align="center">
   <img src="framework.png" alt="main" width="95%">
