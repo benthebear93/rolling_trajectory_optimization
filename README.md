@@ -3,6 +3,10 @@
 Official Code Repository for Trajectory Optimization for In-Hand Manipulation with Tactile Force Control.  
 Minimal, **uv**-managed Python project for **in-hand rolling trajectory optimization** (CasADi + IPOPT) with a **MeshCat** visualizer.
 
+[Haegu Lee](https://benthebear93.github.io/)<sup>1</sup>, [Yitaek Kim](https://robotemperor.github.io/)<sup>1</sup>, [Victor Melbye Staven](https://github.com/vmstavens)<sup>1</sup>, Christoffer Slot<sup>1</sup>
+
+<sup>1</sup>University of Southern Denmark 
+
 <p align="center">
     <a href='https://arxiv.org/abs/2503.08222'>
       <img src='https://img.shields.io/badge/Paper-arXiv-red?style=plastic&logo=arXiv&logoColor=red' alt='Paper arXiv'>
