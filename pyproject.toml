@@ -1,0 +1,17 @@
+[project]
+# Name is optional if you're not building a package; included here for clarity.
+name = "rolling_trajectory_optimization"
+version = "0.1.0"
+description = "Official Code Repository for Trajectory Optimization for In-Hand Manipulation with Tactile Force Control"
+readme = "README.md"
+requires-python = ">=3.10,<3.13"
+dependencies = [
+  "casadi>=3.6",
+  "numpy>=1.24",
+  "meshcat>=0.3",
+]
+
+# (Optional) uv hints — safe to keep or remove.
+[tool.uv]
+managed = true
+python = "3.12"

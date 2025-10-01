@@ -1,0 +1,22 @@
+# venv & uv
+.venv/
+uv.lock
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# Data
+finger_solution.npz
