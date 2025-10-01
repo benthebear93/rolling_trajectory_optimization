@@ -1,0 +1,34 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+
+# Output files
+*.npz
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# uv lock file and build artifacts
+uv.lock
+*.egg-info/
+build/
+dist/
+*.egg
+
+# OS generated files
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
